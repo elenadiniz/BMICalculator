@@ -30,7 +30,7 @@ Confira a seguir o que significam os resultados
 ## Requisitos
 
 - Forkar esse repositório e trabalhar em cima dele;
-- 100% Swift/Kotlin;
+- Swift | Kotlin | Dart (Flutter);
 - O Layout da tela é livre (mostre seu lado artístico);
 
 
