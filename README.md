@@ -27,10 +27,11 @@ Confira a seguir o que significam os resultados
 | Mais do que 40    | Obesidade grau 3    |
 
 
-## Requisitos mínimos
+## Requisitos
 
 - Forkar esse repositório e trabalhar em cima dele;
-- 100% Swift;
+- 100% Swift/Kotlin;
+- O Layout da tela é livre (mostre seu lado artístico);
 
 
 ## Seria legal se tivesse
