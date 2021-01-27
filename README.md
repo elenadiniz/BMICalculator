@@ -39,9 +39,14 @@ Confira a seguir o que significam os resultados
 - Mark's;
 - Separação de responsabilidades das classes, exemplo: [Model|View|Controller] ou [Model|View|Presenter] ou [Model|View|ViewModel].
 
+## Entrega
+
+- Comitar e subir no seu Git o seu desenvolvimento;
+- Enviar um `Merge Request | Pull Request` para o projeto base do desafio;
+- Sinalizar ao organizador sobre a conclusão da tarefa;
 
 ## Duvidas
-Duvidas podem ser tiradas no canal de Issues ou mandando e-mail para `helio.vieira@usemobile.xyz`.
+Duvidas podem ser tiradas no canal de Issues ou mandando e-mail para `guilherme.rocha@usemobile.xyz` ou `helio.vieira@usemobile.xyz`.
 
 ## Organização
 [usemobile.com.br](https://www.usemobile.com.br)
