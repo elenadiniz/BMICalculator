@@ -1,6 +1,6 @@
-# Desafio [J1B]
 
-### Desenvolver um App para calcular o IMC.
+
+### App para calcular o IMC.
 
 ## Como calcular o IMC
 
@@ -25,33 +25,3 @@ Confira a seguir o que significam os resultados
 | Entre 30 e 34,9    | Obesidade grau 1    |
 | Entre 35 e 39,9    | Obesidade grau 2    |
 | Mais do que 40    | Obesidade grau 3    |
-
-
-## Requisitos
-
-- Forkar esse repositório e trabalhar em cima dele;
-- Swift | Kotlin | Dart (Flutter);
-- O Layout da tela é livre (mostre seu lado artístico);
-
-
-## Seria legal se tivesse
-
-- Mark's;
-- Separação de responsabilidades das classes, exemplo: [Model|View|Controller] ou [Model|View|Presenter] ou [Model|View|ViewModel].
-
-## Entrega
-
-- Comitar e subir no seu Git o seu desenvolvimento;
-- Enviar um `Merge Request | Pull Request` para o projeto base do desafio;
-- Sinalizar ao organizador sobre a conclusão da tarefa;
-
-## Duvidas
-Duvidas podem ser tiradas no canal de Issues ou mandando e-mail para `guilherme.rocha@usemobile.xyz` ou `helio.vieira@usemobile.xyz`.
-
-## Organização
-[usemobile.com.br](https://www.usemobile.com.br)
-
-![](https://media.glassdoor.com/sqll/2793862/usemobile-squarelogo-1574702496477.png)
-
-
-### 🍀 Boa sorte! 
