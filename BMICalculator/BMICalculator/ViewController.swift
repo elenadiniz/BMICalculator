@@ -32,7 +32,9 @@ class ViewController: UIViewController, UITextFieldDelegate {
     @IBAction func tappedCalcButton(_ sender: UIButton) {
         
         bmiCalc(firstValue: self.heightTextField.text ?? "", secondValue: self.weightTextField.text ?? "")
-    }
+        
+        }
+        
     
     @IBAction func tappedLayoutSegment(_ sender: UISegmentedControl) {
         
@@ -59,23 +61,6 @@ class ViewController: UIViewController, UITextFieldDelegate {
         print(weightCalc)
         
         self.resultLabel.text = "Seu IMC é de: \(weightCalc)"
-    }
-    
-    func resultString(totalCalc: Float) -> String {
-        
-        if totalCalc < 18.5 {
-                    return "Abaixo do Peso"
-        } else if totalCalc <= 24.9 {
-            return "Peso Normal"
-        } else if totalCalc <= 29.9 {
-                return "Sobrepeso"
-        } else if totalCalc <= 34.9 {
-            return "Obesidade grau 1"
-        } else if totalCalc <= 39.9 {
-            return "Obesidade grau 2"
-        } else {
-            return "Obesidade grau 3"
-        }
     }
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
